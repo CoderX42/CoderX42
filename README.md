@@ -104,90 +104,21 @@
 
 ## 📈 Skills Radar
 
-<!-- 技能雷达图区域 -->
-<div style="position: relative; margin: 2rem 0; padding: 2rem; border-radius: 12px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <h2 style="text-align: center; font-size: 24px; margin-bottom: 2rem; color: #333;">📈 Skills Radar</h2>
-  
-  <!-- 技能进度条 -->
-  <div style="max-width: 800px; margin: 0 auto;">
-    <!-- AI 编程 -->
-    <div style="margin-bottom: 1rem;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
-        <span style="font-weight: bold; color: #333;">AI 编程</span>
-        <span style="color: #666;">95%</span>
-      </div>
-      <div style="width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden;">
-        <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #4CAF50, #8BC34A); border-radius: 4px; transition: width 1s ease;"></div>
-      </div>
-    </div>
-    
-    <!-- 前端开发 -->
-    <div style="margin-bottom: 1rem;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
-        <span style="font-weight: bold; color: #333;">前端开发</span>
-        <span style="color: #666;">85%</span>
-      </div>
-      <div style="width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden;">
-        <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #2196F3, #64B5F6); border-radius: 4px; transition: width 1s ease 0.1s;"></div>
-      </div>
-    </div>
-    
-    <!-- 后端开发 -->
-    <div style="margin-bottom: 1rem;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
-        <span style="font-weight: bold; color: #333;">后端开发</span>
-        <span style="color: #666;">80%</span>
-      </div>
-      <div style="width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden;">
-        <div style="width: 80%; height: 100%; background: linear-gradient(90deg, #FF9800, #FFB74D); border-radius: 4px; transition: width 1s ease 0.2s;"></div>
-      </div>
-    </div>
-    
-    <!-- DevOps -->
-    <div style="margin-bottom: 1rem;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
-        <span style="font-weight: bold; color: #333;">DevOps</span>
-        <span style="color: #666;">70%</span>
-      </div>
-      <div style="width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden;">
-        <div style="width: 70%; height: 100%; background: linear-gradient(90deg, #9C27B0, #BA68C8); border-radius: 4px; transition: width 1s ease 0.3s;"></div>
-      </div>
-    </div>
-    
-    <!-- MCN 业务 -->
-    <div style="margin-bottom: 1rem;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
-        <span style="font-weight: bold; color: #333;">MCN 业务</span>
-        <span style="color: #666;">90%</span>
-      </div>
-      <div style="width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden;">
-        <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #F44336, #E57373); border-radius: 4px; transition: width 1s ease 0.4s;"></div>
-      </div>
-    </div>
-    
-    <!-- AI 应用开发 -->
-    <div style="margin-bottom: 1rem;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
-        <span style="font-weight: bold; color: #333;">AI 应用开发</span>
-        <span style="color: #666;">65%</span>
-      </div>
-      <div style="width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden;">
-        <div style="width: 65%; height: 100%; background: linear-gradient(90deg, #00BCD4, #4DD0E1); border-radius: 4px; transition: width 1s ease 0.5s;"></div>
-      </div>
-    </div>
-    
-    <!-- 产品/商业 -->
-    <div style="margin-bottom: 1rem;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
-        <span style="font-weight: bold; color: #333;">产品/商业</span>
-        <span style="color: #666;">60%</span>
-      </div>
-      <div style="width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden;">
-        <div style="width: 60%; height: 100%; background: linear-gradient(90deg, #795548, #A1887F); border-radius: 4px; transition: width 1s ease 0.6s;"></div>
-      </div>
-    </div>
-  </div>
-</div>
+| 技能领域 | 熟练度 |
+| :--- | :--- |
+| **AI 编程** | ⭐⭐⭐⭐⭐ (95%) |
+| **前端开发** | ⭐⭐⭐⭐⭐ (85%) |
+| **后端开发** | ⭐⭐⭐⭐ (80%) |
+| **DevOps** | ⭐⭐⭐ (70%) |
+| **MCN 业务** | ⭐⭐⭐⭐⭐ (90%) |
+| **AI 应用开发** | ⭐⭐⭐ (65%) |
+| **产品/商业** | ⭐⭐⭐ (60%) |
+
+### 技能概览
+
+<p align="center">
+  <img src="https://readme-stats.vercel.app/api/skills?username=CoderX42&title=Skills&theme=radical" alt="Skills Overview" />
+</p>
 
 ---
 
