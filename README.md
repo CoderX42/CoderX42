@@ -7,7 +7,6 @@
   <samp>Full Stack · AI-Native · Prompt-First</samp>
 </p>
 
-<br>
 
 ## 🎯 Tech Stack
 
@@ -16,7 +15,6 @@
     <img src="https://skillicons.dev/icons?i=ts,vue,react,nestjs,nodejs,go,java,spring,mysql,mongodb,redis,docker,git,github&theme=light" />
   </a>
 </p>
-<br>
 
 ### ☕ Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -44,11 +42,6 @@
 
 ---
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=CoderX42&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&theme=graywhite&text_color=333&icon_color=000" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
