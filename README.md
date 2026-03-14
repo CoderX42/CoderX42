@@ -1,15 +1,21 @@
 <!-- 顶部动态标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F49E57&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Karl;Full+Stack+Developer;MCN+Tech+Expert;Vibe+Coding+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F49E57&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Karl;Full+Stack+Developer;vibe+coding;Vibe+Coding+Practitioner" alt="Typing SVG" />
 </p>
 
-<!-- 社交链接 -->
 <p align="center">
-  <a href="mailto:supanpan199919@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=CoderX42&label=Profile%20Views&color=F49E57&style=flat-square" alt="Profile Views" />
+  <samp>Full Stack · AI-Native · Prompt-First</samp>
 </p>
 
+<br>
 ---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,vue,react,nestjs,nodejs,go,java,spring,mysql,mongodb,redis,docker,git,github&theme=light" />
+  </a>
+</p>
+
+<br>
 
 ## 🎯 Tech Stack
 
@@ -39,15 +45,9 @@
 
 ---
 
-## 💼 Experience
-
-### 🔹 全栈工程师 @ 告趣 MCN
-*2021 - 至今*
-
-- 🚀 MCN 数字化系统建设（NestJS + Vue3 + 微信小程序）
-- 🤖 **Vibe Coding** 实践者，AI 辅助开发效率提升 **3 倍**
-- 📊 服务 **5 万+** 用户，日处理订单 **1000+**
-- 🔄 主导 Java → NestJS 架构迁移
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=CoderX42&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&theme=graywhite&text_color=333&icon_color=000" />
+</p>
 
 ---
 
@@ -67,7 +67,6 @@
 ## 🏆 Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MCN_数字化-Expert-F49E57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/全栈开发-Full_Stack-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_辅助开发-AI_Native-FF6F61?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vibe_Coding-Practitioner-9B59B6?style=for-the-badge" />
