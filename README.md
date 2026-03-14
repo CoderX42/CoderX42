@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <samp>Full Stack · AI-Native · Prompt-First · MCN Industry</samp>
+  <samp>Full Stack · AI-Native · Prompt-First </samp>
 </p>
 
 ## 🚀 About Me
@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/定位-AI_原生全栈工程师-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/背景-3年全栈+9个月AI辅助开发-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/核心优势-MCN行业数字化+AI编程工具链-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/核心优势-AI编程工具链-purple?style=for-the-badge" />
 </p>
 
 ---
@@ -88,11 +88,7 @@
 - **AI 工作流**：AI 辅助架构设计 → 代码生成 → 审查优化 → 测试部署闭环
 - **AI 重构实战**：使用 AI 重构 20+ 业务模块、复杂遗留系统迁移
 
-### MCN 行业业务域
-- **平台对接**：抖音星图 API、小红书蒲公英 API、淘宝联盟 API
-- **数据处理**：电商 GMV 数据处理、跨平台数据聚合、Puppeteer 爬虫自动化
-- **核心系统**：KOL 管理系统、CRM 工作流、分账结算系统、多级分润逻辑
-- **业务流程**：内容创作 → 流量获取 → 电商变现 → 数据分析全链路
+
 
 ### AI 应用开发
 - **大模型接入**：OpenAI API、Anthropic API、阿里云百炼、智谱 AI、DeepSeek
@@ -110,27 +106,12 @@
 | **前端开发** | ⭐⭐⭐⭐⭐ (85%) |
 | **后端开发** | ⭐⭐⭐⭐ (80%) |
 | **DevOps** | ⭐⭐⭐ (70%) |
-| **MCN 业务** | ⭐⭐⭐⭐⭐ (90%) |
 | **AI 应用开发** | ⭐⭐⭐ (65%) |
-| **产品/商业** | ⭐⭐⭐ (60%) |
-
-### 技能概览
-
-<p align="center">
-  <img src="https://readme-stats.vercel.app/api/skills?username=CoderX42&title=Skills&theme=radical" alt="Skills Overview" />
-</p>
+| **产品/商业** | ⭐⭐⭐ (30%) |
 
 ---
 
-## 🏆 Key Projects
 
-| 项目名称 | 技术栈 | AI 应用 | 成果 |
-| :--- | :--- | :--- | :--- |
-| **智能分账结算系统** | NestJS + TypeScript + TypeORM | Cursor 生成 CRUD，聚焦分账算法 | 开发周期缩短 40%，日均处理 1000+ 订单 |
-| **跨平台数据聚合中心** | NestJS + Puppeteer + Vue3 + ECharts | AI 辅助编写数据清洗脚本 | 数据汇总从 2 小时/天降至 10 分钟 |
-| **微信小程序生态** | uni-app + Vant Weapp | AI 生成页面模板，专注业务逻辑 | 累计用户 5 万+，首屏优化至 1.2s |
-
----
 
 ## 📫 Contact Me
 
